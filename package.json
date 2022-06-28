@@ -1,0 +1,21 @@
+{
+  "name": "cypress-sk8-shoes",
+  "version": "1.0.0",
+  "description": "Automatización de Sk8 Shoes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automatization"
+  ],
+  "author": "Rafael Cervantes",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.2.0"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
